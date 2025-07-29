@@ -28,5 +28,10 @@
     "esbuild": "^0.20.0",
     "@types/vscode": "^1.80.0",
     "typescript": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zafkii/GoRGBAColorPickerExtension.git"
+  },
+  "license": "MIT"
 }

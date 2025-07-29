@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# VSCE
+*.vsix
+
+# Sistema
+.DS_Store
+Thumbs.db

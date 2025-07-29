@@ -15,3 +15,7 @@ Open a `.go` file and hover over something like:
 ```go
 color.RGBA{255, 100, 50, 255}
 ```
+
+## 🖼️ Captura
+
+![Captura de pantalla](media/screenshot.png)

@@ -1,0 +1,13 @@
+# Ignorar archivos innecesarios
+.vscode/
+.gitignore
+.vscodeignore
+node_modules/
+*.zip
+*.log
+*.sh
+*.ps1
+*.wea
+
+# NO ignores tus imágenes
+!media/*

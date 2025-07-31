@@ -1,10 +1,11 @@
 {
   "name": "go-rgba-color-picker",
-  "displayName": "Go RGBA Color Picker",
+  "displayName": "Go Color Picker",
   "description": "Show an interactive color panel for color.RGBA{...} in Go files",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "Zafkii",
   "author": "Zafkii",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -21,6 +22,13 @@
     "themes": [],
     "colorDecorators": true
   },
+  "files": [
+    "media",
+    "icon.png",
+    "out",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
     "build": "esbuild src/extension.ts --bundle --outfile=out/extension.js --platform=node --target=node18 --external:vscode"
   },

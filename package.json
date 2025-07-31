@@ -1,7 +1,7 @@
 {
   "name": "go-rgba-color-picker",
-  "displayName": "Go Color Picker",
-  "description": "Show an interactive color panel for color.RGBA{...} in Go files",
+  "displayName": "Golang Color Picker",
+  "description": "Show an interactive color panel for colors in Go files",
   "version": "0.0.5",
   "publisher": "Zafkii",
   "author": "Zafkii",
